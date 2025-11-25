@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravi29125/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/ravi29125/Leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ravi29125/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ravi29125/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ravi29125/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ravi29125/My_Coding_works/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravi29125/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/ravi29125/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/ravi29125/My_Coding_works/tree/master/0870-magic-squares-in-grid) |
 | [0897-prime-palindrome](https://github.com/ravi29125/Leetcode/tree/master/0897-prime-palindrome) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ravi29125/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ravi29125/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/ravi29125/Leetcode/tree/master/1500-count-largest-group) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ravi29125/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
